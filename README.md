@@ -1,8 +1,6 @@
 # Message-app
 A clone of stock google messaging app
 
-![](ss.jpeg)
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
